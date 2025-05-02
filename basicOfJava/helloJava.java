@@ -5,6 +5,8 @@ public class helloJava{ // class name should be same as file name
          System.out.println("hello , Java! "); // print hello, Java! to the console
         
          System.out.print("I am excied to learn Java\n");// ; is nessary to end the statement
+        
+         System.out.println("sout then tab (it is a short cut )"); // sout is use as a short cut 
     }
 }
 
