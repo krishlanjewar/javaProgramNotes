@@ -46,15 +46,15 @@ public class madLibs {
          shout = sc.nextLine();      
 
          System.out.println();
-         System.out.println("   choose one from below stories :} ");
-         System.out.println("🧙‍♂️ Fantasy Adventure");
-         System.out.println("🚀 Sci-Fi Space Mission");
-         System.out.println("🏫 School Day Chaos");
-         System.out.println("🎉 Party Disaster");
-         System.out.println("💘 Romantic Comedy");
-         System.out.println("😂 Shinchan Chaos");
+         System.out.println(" ### choose one from below stories :} ### ");
+         System.out.println("1) Fantasy Adventure");
+         System.out.println("2) Sci-Fi Space Mission");
+         System.out.println("3) School Day Chaos");
+         System.out.println("4) Party Disaster");
+         System.out.println("5) Romantic Comedy");
+         System.out.println("6) Shinchan Chaos");
          System.out.println();
-         System.out.print("ENTER a STORY NAME :");
+         System.out.print("Write a STORY NAME from above( that you have chosen ):");
          String Story = sc.nextLine();
          switch (Story.toLowerCase()) {
             case "fantasy adventure":
