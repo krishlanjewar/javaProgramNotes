@@ -42,7 +42,7 @@ public class variable{
  // x= 90 
   /* it will show error we have finalize x  */
 
-  int q=0 , g =8 , f=9;
+  int q = 0 , g = 8 , f =9;
   System.out.println(y +" " + x);
 
 }
